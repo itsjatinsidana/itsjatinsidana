@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm JATIN SIDANA</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding" width="200"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjatinsidana&label=Profile%20views&color=0e75b6&style=flat" alt="itsjatinsidana" /> </p>
 
